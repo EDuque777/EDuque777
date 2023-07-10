@@ -21,7 +21,7 @@ Estoy abierto a oportunidades profesionales y colaboraciones en las que pueda ap
 <h2>SKILLS🦾👨‍💻</h2>
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="50" height="50">
-<img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="React" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="50" height="50">
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" alt="NodeJs" width="50" height="50">
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" alt="postgresSQL" width="50" height="50">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS" width="50" height="50">
