@@ -18,7 +18,8 @@ Estoy abierto a oportunidades profesionales y colaboraciones en las que pueda ap
 <p>He realizado proyectos individuales como Full Stack Developer PI-Food</p>
 
 </br>
-<h2>SKILLS</h2>
+<h2>SKILLS🦾👨‍💻</h2>
+
 
 
 
