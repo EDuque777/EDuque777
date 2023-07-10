@@ -1,4 +1,4 @@
-<h1>Hola soy Esteban Duque👋💻</h1>
+<h1>Hola soy Esteban Duque👋</h1>
 
 
 <h2>Full Stack Developer 💻</h2>
@@ -26,6 +26,9 @@ Soy un joven profesional de 21 años con experiencia en desarrollo full stack. M
 <img src="https://miro.medium.com/v2/resize:fit:250/0*rwd6KeolcXgz7zpx.png" alt="Sequelize" width="50" height="50">
 <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="Redux" width="50" height="50">
 </div>
+</br>
+
+<h2>CONTACTO📲</h2>
 
 
 
