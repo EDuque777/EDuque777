@@ -19,6 +19,7 @@ Estoy abierto a oportunidades profesionales y colaboraciones en las que pueda ap
 
 </br>
 <h2>SKILLS🦾👨‍💻</h2>
+<img src="JavaScript" alt="(https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png)https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
 
 
 
