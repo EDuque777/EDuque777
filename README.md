@@ -34,7 +34,7 @@ Soy un joven profesional de 21 años con experiencia en desarrollo full stack. M
 <img src="https://camo.githubusercontent.com/3ce61bc162d28e423ff2068c47ae48f0ab08ebc257defc8fe4ef81dd935d53ea/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65652f4c6f676f5f64655f46616365626f6f6b2e706e67" alt="Facebook" width="50" height="50">
 </a>
 <a href="https://www.instagram.com/estebanduque_7/" target="_blank">
-<img src="https://w7.pngwing.com/pngs/750/461/png-transparent-instagram-application-logo-logo-computer-icons-instagram-miscellaneous-text-trademark-thumbnail.png" alt="Facebook" width="50" height="50">
+<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="50" height="50">
 </a>
 </div>
 
