@@ -36,6 +36,10 @@ Soy un joven profesional de 21 años con experiencia en desarrollo full stack. M
 <a href="https://www.instagram.com/estebanduque_7/" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="50" height="50">
 </a>
+</a>
+<a href="https://www.linkedin.com/in/esteban-duque-certuche-49bb3822b/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Linkedi" width="50" height="50">
+</a>
 </div>
 
 
