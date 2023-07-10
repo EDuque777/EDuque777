@@ -24,7 +24,7 @@ Soy un joven profesional de 21 años con experiencia en desarrollo full stack. M
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="50" height="50">
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="Express" width="50" height="50">
 <img src="https://miro.medium.com/v2/resize:fit:250/0*rwd6KeolcXgz7zpx.png" alt="Sequelize" width="50" height="50">
-<img src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" alt="Redux" width="50" height="50">
+<img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="Redux" width="50" height="50">
 </div>
 
 
