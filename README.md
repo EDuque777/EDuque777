@@ -20,6 +20,7 @@ Estoy abierto a oportunidades profesionales y colaboraciones en las que pueda ap
 </br>
 <h2>SKILLS🦾👨‍💻</h2>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="50" height="50">
+<img src="https://w7.pngwing.com/pngs/18/497/png-transparent-black-and-blue-atom-icon-screenshot-react-javascript-responsive-web-design-github-angularjs-github-logo-electric-blue-signage.png" alt="React" width="50" height="50">
 
 
 
