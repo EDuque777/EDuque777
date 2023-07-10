@@ -43,6 +43,9 @@ Soy un joven profesional de 21 años con experiencia en desarrollo full stack. M
 <a href="mailto:esteban.duque911@gmail.com">
 <img src="https://static.vecteezy.com/system/resources/previews/013/948/544/original/gmail-logo-on-transparent-white-background-free-vector.jpg" alt="Gmail" width="50" height="50">
 </a>
+<a href="https://api.whatsapp.com/send?phone=3194309313">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" alt="WhatsApp">
+</a>
 </div>
 
 
