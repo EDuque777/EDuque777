@@ -10,12 +10,12 @@ Durante mi formación en Henry, adquirí una valiosa experiencia práctica en un
 
 Mi enfoque actual se centra en convertirme en un profesional altamente competente y adaptable en el ámbito de la programación. Estoy emocionado por seguir aprendiendo y creciendo en esta área en constante evolución. Mi pasión por la tecnología y mi capacidad para abordar desafíos me convierten en un candidato motivado y orientado a obtener resultados.
 
-Estoy abierto a oportunidades profesionales y colaboraciones en las que pueda aplicar mis habilidades y conocimientos para contribuir al éxito de proyectos desafiantes. Si buscas a alguien con sólidos conocimientos en tecnologías de desarrollo web y un enfoque riguroso para la resolución de problemas, ¡espero con interés tener la oportunidad de conectarme contigo!
+Estoy abierto a oportunidades profesionales y colaboraciones en las que pueda aplicar mis habilidades y conocimientos para contribuir al éxito de proyectos desafiantes. Si buscas a alguien con sólidos conocimientos en tecnologías de desarrollo web y un enfoque riguroso para la resolución de problemas, ¡espero con interés tener la oportunidad de conectarme contigo!</p>
 
 
-Uno de los proyectos en los que he colaborado es en GameZone
+<p>Uno de los proyectos en los que he colaborado es en GameZone</p>
 
-He realizado proyectos individuales como Full Stack Developer PI-Food</p>
+<p>He realizado proyectos individuales como Full Stack Developer PI-Food</p>
 
 
 
