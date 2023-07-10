@@ -12,7 +12,7 @@ Mi enfoque actual se centra en convertirme en un profesional altamente competent
 
 Estoy abierto a oportunidades profesionales y colaboraciones en las que pueda aplicar mis habilidades y conocimientos para contribuir al éxito de proyectos desafiantes. Si buscas a alguien con sólidos conocimientos en tecnologías de desarrollo web y un enfoque riguroso para la resolución de problemas, ¡espero con interés tener la oportunidad de conectarme contigo!</p>
 
-
+</br>
 <p>Uno de los proyectos en los que he colaborado es en GameZone</p>
 
 <p>He realizado proyectos individuales como Full Stack Developer PI-Food</p>
