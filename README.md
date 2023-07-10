@@ -20,7 +20,7 @@ Soy un joven profesional de 21 años con experiencia en desarrollo full stack. M
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" alt="NodeJs" width="50" height="50">
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" alt="postgresSQL" width="50" height="50">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS" width="50" height="50">
-<img src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png" alt="HTML" width="50" height="50">
+<img src="https://i.blogs.es/bc08e5/html5_logo_256/450_1000.webp" alt="HTML" width="50" height="50">
 </div>
 
 
