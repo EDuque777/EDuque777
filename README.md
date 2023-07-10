@@ -40,6 +40,9 @@ Soy un joven profesional de 21 años con experiencia en desarrollo full stack. M
 <a href="https://www.linkedin.com/in/esteban-duque-certuche-49bb3822b/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Linkedi" width="50" height="50">
 </a>
+<a href="mailto:esteban.duque911@gmail.com">
+<img src="https://static.vecteezy.com/system/resources/previews/013/948/544/original/gmail-logo-on-transparent-white-background-free-vector.jpg" alt="Gmail">
+</a>
 </div>
 
 
