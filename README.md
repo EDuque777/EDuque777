@@ -24,6 +24,7 @@ Estoy abierto a oportunidades profesionales y colaboraciones en las que pueda ap
 <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="React" width="50" height="50">
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" alt="NodeJs" width="50" height="50">
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" alt="postgresSQL" width="50" height="50">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS" width="50" height="50">
 </div>
 
 
