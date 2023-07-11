@@ -8,7 +8,7 @@
 Soy un joven profesional de 21 años con experiencia en desarrollo full stack. Me especialicé en tecnologías como JavaScript, React, Express, NodeJS, PostgreSQL, CSS, HTML, GitHub, Sequelize y Redux. Mi enfoque actual es convertirme en un profesional altamente competente y adaptable en el campo de la programación. Estoy emocionado por seguir aprendiendo y creciendo en esta área en constante evolución. Estoy abierto a oportunidades profesionales y colaboraciones desafiantes donde pueda aplicar mis habilidades y conocimientos para contribuir al éxito de proyectos.</p>
 
 </br>
-<p>Uno de los proyectos en los que he colaborado es en GameZone</p>
+<p>Uno de los proyectos en los que he colaborado es en <a href="https://front-gamezone-production.up.railway.app/">GameZone</a></p>
 
 <p>He realizado proyectos individuales como Full Stack Developer PI-Food</p>
 
